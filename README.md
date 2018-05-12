@@ -12,6 +12,12 @@ Ein relative einfaches Spiel, bei dem man mit der Maus einen Geist fangen und da
 
 <a href="ghost/ghost.pdf"><img src="ghost/stage.png" width="50%" border="10" /></a>
 
+## Fang den Ball
+
+Steuere einen Hund mit der Tastatur und fange Bälle. Etwas anspruchsvoller, aber nicht kompliziert.
+
+<a href="dog/dog.pdf"><img src="dog/stage.png" width="50%" border="10" /></a>
+
 ## Bearbeiten
 
 Die Karten wurden mit [Scribus](https://www.scribus.net/) erstellt und können damit auch bearbeitet werden. Dafür einfach die *.sla-Datei öffnen.
