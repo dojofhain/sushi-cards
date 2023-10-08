@@ -4,7 +4,7 @@
 
 Ein einfaches Spiel, bei dem ein Hai mit der Tastatur gesteuert wird um kleine Fische zu fangen. Gut geeignet für Anfänger.
 
-<a href="fish/fish.pdf"><img src="fish/stage.png" width="50%" border="10" /></a>
+<a href="fish/fish.pdf"><img src="fish/stage_de.png" width="50%" border="10" /></a>
 
 ## Geisterjagd
 
