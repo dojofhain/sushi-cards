@@ -16,5 +16,5 @@ Ein relative einfaches Spiel, bei dem man mit der Maus einen Geist fangen und da
 
 Steuere einen Hund mit der Tastatur und fange Bälle. Etwas anspruchsvoller, aber nicht kompliziert.
 
-<a href="dog/dog.pdf"><img src="dog/stage.png" width="50%" border="10" /></a>
+<a href="dog/dog.pdf"><img src="dog/stage_de.png" width="50%" border="10" /></a>
 
